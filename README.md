@@ -22,4 +22,4 @@ git clone --depth 1 -- git@github.com:rexackermann/LazyVim.git ~/.config/nvim
 
 ## 📝 License
 
-This project is licensed under the [MIT license](LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE)
