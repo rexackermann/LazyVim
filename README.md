@@ -6,7 +6,7 @@
 To install, run:
 
 ```bash
-git clone https://github.com/rexackermann/LazyVim ~/.config/nvim
+git clone --depth 1 -- https://github.com/rexackermann/LazyVim ~/.config/nvim
 ```
 
 ## 📦 Packages
