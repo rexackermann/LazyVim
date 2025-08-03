@@ -3,10 +3,15 @@
 [LazyVim](https://github.com/LazyVim/LazyVim).
 [documentation](https://lazyvim.github.io/installation)
 
-To install, run:
+## 📥 Installation
 
 ```bash
 git clone --depth 1 -- https://github.com/rexackermann/LazyVim ~/.config/nvim
+```
+
+```bash
+# avoid this one
+git clone --depth 1 -- git@github.com:rexackermann/LazyVim.git ~/.config/nvim
 ```
 
 ## 📦 Packages
