@@ -14,6 +14,14 @@ git clone --depth 1 -- https://github.com/rexackermann/LazyVim ~/.config/nvim
 git clone --depth 1 -- git@github.com:rexackermann/LazyVim.git ~/.config/nvim
 ```
 
+## Notes
+
+# orgmode
+
+- orgmode fix
+
+* run `Org install_treesitter__grammar` in the nvim's command line
+
 ## 📦 Packages
 
 - [lazyvim/plugins](https://github.com/lazyvim/plugins)
